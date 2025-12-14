@@ -1,24 +1,30 @@
 services:
 
-  app:
-    image: python:3.11-slim
-    volumes:
-      - ./app:/app
-    working_dir: /app
-    command: python app.py
+  # app:
+  #   image: python:3.11-slim
+  #   volumes:
+  #     - ./app:/app
+  #   working_dir: /app
+  #   command: python app.py
 
   filebeat:
     image: docker.elastic.co/beats/filebeat:8.11.1
     user: root
     volumes:
       - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro
-      - ./app/logs:/logs
+      - ./logs:/logs
     # depends_on:
     #   - app
 
   logstash:
     image: docker.elastic.co/logstash/logstash:8.11.1
+    container_name: logstash
     volumes:
       - ./logstash/pipeline:/usr/share/logstash/pipeline
     ports:
       - "5044:5044"
+      - "9600:9600"   # Logstash monitoring API
+    environment:
+      - XPACK_MONITORING_ENABLED=false
+    depends_on:
+      - filebeat
