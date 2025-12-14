@@ -1,0 +1,33 @@
+filebeat.inputs: # where filebeat read files from (log sources)
+  - type: log
+    enabled: true # enables this input
+    paths:  # treats these files as one logical stream and tails all 3 files
+      - /logs/application.log
+      - /logs/error.log
+      - /logs/audit.log
+    # New log event starts if it begins with a date
+    multiline.pattern: '^\d{4}-\d{2}-\d{2}' # applies the rules on all 3 files, without multiline, each exception line becomes new log event
+    multiline.negate: true # with this the not matching events belog to previous log
+    multiline.match: after #Append not matching lines after the previous line”
+
+# with this the logstream contains proper log for logstash to deal
+  - type: log
+    enabled: true
+    paths:
+      - /logs/access.log # treats each line as seperate log event (logstream)
+
+
+output.logstash:
+  hosts: ["logstash:5044"] #path where logstash runs (sent over network)
+
+processors: #Add environment metadata, they modify events just before sending them
+# This is used to tag the logs which makes it easy for querying
+  - add_fields: # adds custom fields to every event
+      target: "" # adds fields at root level
+      fields:
+        env: staging
+
+
+#Processers are most important as they are used to filter logs
+# eg env: production AND level: ERROR
+# Its used to setup alerts, dashboards
