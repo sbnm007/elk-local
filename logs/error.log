@@ -28,3 +28,2573 @@
       File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
         raise TimeoutError("Query timed out")
     TimeoutError: Query timed out
+2025-12-15 12:04:05,948 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:18,963 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:19,965 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:25,969 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:26,971 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:43,983 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:47,986 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:04:48,987 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:02,997 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:07,000 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:14,006 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:16,007 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:21,011 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:26,014 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:33,018 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:42,024 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:45,026 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:47,028 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:05:59,036 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:01,038 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:02,039 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:09,045 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:14,049 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:19,053 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:42,068 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:49,073 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:53,076 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:56,079 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:06:57,080 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:09,089 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:10,091 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:24,101 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:26,103 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:27,104 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:38,111 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:46,116 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:07:48,117 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:02,125 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:16,134 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:19,137 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:26,142 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:29,145 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:44,155 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:45,156 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:52,161 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:53,162 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:08:56,165 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:14,177 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:15,178 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:16,179 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:21,184 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:22,185 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:23,186 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:41,198 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:45,200 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:48,203 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:56,209 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:09:59,211 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:10,219 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:12,220 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:37,233 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:41,236 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:51,243 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:10:52,244 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:13,258 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:15,260 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:20,264 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:29,270 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:32,272 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:40,277 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:42,279 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:48,282 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:55,286 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:11:58,288 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:01,290 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:02,291 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:11,297 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:12,298 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:18,305 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:33,319 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:54,332 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:12:58,335 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:03,340 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:07,343 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:08,344 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:12,347 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:16,349 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:20,352 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:39,366 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:41,368 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:42,369 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:47,374 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:49,376 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:50,377 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:52,378 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:55,380 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:13:57,383 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:13,392 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:15,393 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:21,397 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:31,403 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:38,407 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:14:52,415 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:15:41,450 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:15:51,457 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:05,466 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:06,467 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:12,471 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:13,472 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:14,473 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:23,480 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:25,481 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:39,491 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:16:47,497 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:07,510 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:09,512 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:15,516 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:20,520 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:23,522 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:24,524 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:35,531 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:17:49,540 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:04,555 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:06,556 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:20,565 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:24,568 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:27,569 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:40,578 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:48,584 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:53,588 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:57,591 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:18:59,593 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:02,596 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:05,599 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:10,603 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:13,605 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:21,611 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:24,613 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:31,618 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:33,620 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:38,623 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:39,624 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:40,625 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:49,631 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:50,632 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:52,633 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:19:56,636 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:05,643 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:19,652 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:27,658 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:28,659 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:31,662 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:40,667 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:41,669 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:20:47,673 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:00,682 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:02,684 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:20,695 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:21,696 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:25,699 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:21:36,706 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:15,728 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:28,738 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:29,739 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:30,740 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:41,747 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:42,748 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:52,754 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:55,756 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:22:59,758 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:01,760 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:11,765 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:16,769 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:27,777 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:43,787 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:48,791 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:23:52,794 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:00,800 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:01,801 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:07,806 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:16,812 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:18,814 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:20,815 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:21,817 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:41,831 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:49,837 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:24:54,841 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:00,846 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:03,849 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:06,851 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:14,858 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:23,865 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:31,869 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:35,872 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:39,875 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:41,877 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:43,879 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:47,884 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:25:53,889 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:26:01,894 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:26:05,897 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:26:26,911 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:26:29,914 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:26:39,920 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:05,937 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:13,943 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:32,954 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:37,957 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:39,959 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:55,970 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:27:56,971 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:02,976 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:07,980 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:10,982 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:15,985 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:21,988 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:29,993 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:30,994 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:41,999 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:53,006 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:56,009 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:28:57,010 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:01,013 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:04,015 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:12,020 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:13,021 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:24,029 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:34,036 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:54,048 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:29:58,051 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:03,054 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:09,059 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:10,060 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:24,068 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:30,071 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:33,074 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:34,075 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:37,078 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:41,081 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:30:47,086 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:05,098 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:08,101 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:14,105 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:28,115 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:29,116 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:38,122 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:46,127 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:31:49,130 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:02,138 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:30,154 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:31,155 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:38,159 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:43,162 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:44,163 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:47,165 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:49,167 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:32:56,172 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:01,176 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:02,177 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:03,178 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:18,189 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:29,197 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:33,200 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:37,204 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:41,207 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:50,213 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:52,215 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:54,216 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:57,219 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:33:59,221 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:48:05,744 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:48:13,757 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:48:23,764 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:48:41,777 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:48:45,780 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:05,792 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:10,796 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:16,800 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:18,802 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:22,806 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:37,816 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:45,822 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:49:58,831 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:01,834 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:05,837 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:15,843 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:17,845 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:20,848 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:21,849 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:36,857 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:50:52,867 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:02,878 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:05,881 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:07,883 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:13,887 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:30,898 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:51,911 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:51:55,914 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:52:22,932 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:52:27,935 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:52:29,937 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:52:32,939 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:52:33,940 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:01,957 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:02,958 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:06,961 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:19,971 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:23,974 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:26,976 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:28,978 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:30,980 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:35,984 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:38,987 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:42,989 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:45,992 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:51,996 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:53:54,999 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:03,005 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:06,008 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:16,015 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:17,016 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:35,028 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:41,032 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:46,036 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:54:56,042 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:10,052 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:14,055 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:15,056 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:24,061 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:30,066 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:41,074 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:49,080 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:50,081 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:55:58,086 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:02,089 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:03,091 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:04,092 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:07,094 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:16,101 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:21,105 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:22,106 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:23,108 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:30,113 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:32,115 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:33,116 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:37,119 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:39,121 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:40,123 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:42,125 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:50,132 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:52,134 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:56:54,137 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:07,145 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:13,149 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:22,156 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:24,158 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:36,166 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:37,167 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:43,172 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:44,174 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:48,177 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:52,180 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:57:54,182 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:00,187 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:01,188 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:08,193 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:09,194 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:20,202 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:45,219 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:53,224 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:56,227 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:58:58,229 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:06,233 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:08,235 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:14,239 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:28,246 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:32,248 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 12:59:43,254 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:01,266 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:30,284 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:35,288 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:36,289 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:37,291 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:46,298 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:51,301 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:00:58,307 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:01,309 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:15,319 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:19,321 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:23,324 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:25,326 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:40,336 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:43,339 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:46,342 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:47,343 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:01:51,346 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:00,352 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:04,356 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:23,369 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:26,372 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:36,379 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:54,392 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:02:58,395 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:13,405 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:16,408 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:30,418 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:36,421 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:40,424 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:44,427 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:46,428 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:56,435 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:03:59,438 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:04:13,446 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:04:14,447 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:04:34,459 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:04:38,462 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:04:49,469 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:07,480 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:15,485 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:24,492 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:32,498 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:39,503 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:42,506 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:45,509 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:05:49,512 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:06,525 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:23,536 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:26,538 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:27,540 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:36,547 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:44,553 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:45,554 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:06:59,565 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:07,571 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:20,581 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:35,591 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:38,593 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:41,596 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:47,600 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:07:49,602 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:07,615 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:21,624 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:23,626 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:29,631 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:35,636 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:47,643 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:51,647 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:52,648 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:08:56,652 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:00,656 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:12,664 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:17,668 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:20,671 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:26,675 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:28,677 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:33,681 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:47,692 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:49,694 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:09:54,698 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:04,705 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:12,710 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:26,719 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:34,725 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:41,730 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:43,732 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:44,734 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:46,736 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:51,740 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:10:54,743 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:01,748 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:08,753 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:10,754 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:15,758 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:21,764 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:25,767 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:30,771 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:11:43,780 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:03,793 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:04,794 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:08,799 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:12,801 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:14,804 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:18,807 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:19,808 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:22,811 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:23,812 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:24,814 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:32,820 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:33,821 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:12:57,837 ERROR [http-nio-8080-exec-5] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:13:09,846 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:13:11,848 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:13:23,857 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:13:29,861 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:04,885 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:08,888 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:14,893 ERROR [http-nio-8080-exec-3] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:35,907 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:36,908 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:38,910 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:14:42,913 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:05,928 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:11,932 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:19,938 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:22,941 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:31,948 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:42,956 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:44,958 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:48,961 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:58,969 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:15:59,970 ERROR [http-nio-8080-exec-1] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:16:11,979 ERROR [http-nio-8080-exec-1] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:16:32,992 ERROR [http-nio-8080-exec-3] c.e.user.UserController             - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
+2025-12-15 13:16:36,994 ERROR [http-nio-8080-exec-5] c.e.user.UserService                - Database timeout while fetching user id=42
+    Traceback (most recent call last):
+      File "/home/sibin/Projects/elk-local/app/java-app.py", line 44, in error_log
+        raise TimeoutError("Query timed out")
+    TimeoutError: Query timed out
